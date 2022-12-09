@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm [Nagesh](https://github.com/nagesh2609), An Aspiring Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
+I'm [Nagesh](https://github.com/nagesh2609), An Aspiring Java Backend Developer with a specialization in Java, Spring Boot, SQL,REST APIs with a passion for learning with an endless supply of optimism and curiosity.
 
 
 I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
