@@ -45,16 +45,16 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
 
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh2609&theme=radical" alt="Nagesh Salgude" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nagesh2609&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nagesh2609&theme=default" alt="Nagesh Salgude" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nagesh2609&show_icons=true&theme=default" height="255px" width="47%"/>
 <div>
   </br>
   
   
   
   <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagesh2609&theme=radical&langs_count=8" alt="Sangram Keshari" height="230px" width="25%" />
-  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagesh2609&theme=radical" alt="Sangram-1996" height="220px" width="70%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagesh2609&theme=default&langs_count=8" alt="Nagesh Salgude" height="230px" width="25%" />
+  <img img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nagesh2609&theme=default" alt="nagesh2609" height="220px" width="70%"/>
   
 
 <div>
