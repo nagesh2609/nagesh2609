@@ -8,7 +8,7 @@ I'm [Nagesh](https://github.com/nagesh2609), An Aspiring Java Backend Developer 
 I'm an Object-oriented, design Self-motivated and curious, with a keen interest in building user-centric products. Looking forward to honing my skills in a challenging work environment.<br/>
 
 
-  💼 Do reach [email](mailto:salgudenagesh2609@gmail.com) <br/>
+  💼 Do reach [email](mailto:salgudenagesh2609@gmail.com). <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
   👨‍💻 Checkout my [Portfolio](https://nagesh2609.github.io/) & [my linkedin profile](https://www.linkedin.com/in/nagesh-salgude-27533a231/) <br/>
   
