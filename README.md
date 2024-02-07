@@ -10,14 +10,11 @@ I'm an Object-oriented, design Self-motivated and curious, with a keen interest 
 
   💼 Do reach [email](mailto:salgudenagesh2609@gmail.com). <br/>
   💬 Ask me about anything, i would love to help 😄 <br/>
-  👨‍💻 Checkout my [Portfolio](https://nagesh2609.github.io/) & [my linkedin profile](https://www.linkedin.com/in/nagesh-salgude-27533a231/) <br/>
+  👨‍💻 Checkout my [Portfolio](https://nagesh2609.github.io/) <br/>
   
 
 
 
-<a href="https://www.linkedin.com/in/nagesh-salgude-27533a231/">
-  <img align="left" alt="Nagesh's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
-</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagesh2609&label=Profile%20views&color=0e75b6&style=flat" alt="nagesh2609" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheetalbisht2001" alt="nagehs2609" /></a> </p>
